@@ -40,7 +40,7 @@ To access a detailed view of the question papers, navigate to the specific semes
 **Clone the Repository:**
 
 ```bash
-git clone <https://github.com/pratyaynotfound/BSMS-Question-Papers_IACS.git>
+git clone <repo-url>
 ```
 **Add and Commit Question Papers:**
 ```bash
