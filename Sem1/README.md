@@ -9,3 +9,24 @@ Kindly click on the respective links to directly go to the question papers.
 - [Chemistry - Energetics and Bonding](CHS1101.pdf)
 - [Computer Science - Introduction to Computing](MCS1101B.pdf)
 - [AEC - Communicative English](AEC1101.pdf)
+
+# 2023 Questions
+### PHS 1201
+- #### Mid Sem
+- #### End Sem
+---
+### CHS 1201
+- #### Mid Sem
+- #### End Sem
+---
+### MCS 1201A
+- #### Mid Sem
+- #### End Sem
+---
+### MCS 1201B
+- #### Mid Sem
+- #### End Sem
+---
+### BIS 1201
+- #### Mid Sem
+- #### End Sem
