@@ -2,7 +2,7 @@
 
 Kindly click on the respective links to directly go to the question papers.
 
-### Semester 1
+### Subjects
 - [Biology - Molecules of Life and Cells](BIS1101.pdf)
 - [Mathematics - Calculus of One Variable](MCS1101A.pdf)
 - [Physics - Introductory Classical and Quantum Mechanics](PHS1101.pdf)
