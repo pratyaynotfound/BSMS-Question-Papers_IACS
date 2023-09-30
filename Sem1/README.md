@@ -1,11 +1,8 @@
-# BSMS Sem 1 Questions 
+# BSMS Sem 1 Question Papers
 
-Kindly click on the respective links to directly go to the question papers.
-
-### Subjects
-- [Biology - Molecules of Life and Cells](BIS1101.pdf)
-- [Mathematics - Calculus of One Variable](MCS1101A.pdf)
-- [Physics - Introductory Classical and Quantum Mechanics](PHS1101.pdf)
-- [Chemistry - Energetics and Bonding](CHS1101.pdf)
-- [Computer Science - Introduction to Computing](MCS1101B.pdf)
-- [AEC - Communicative English](AEC1101.pdf)
+## [2018 Questions](2018)
+## [2019 Questions](2019)
+## [2020 Questions](2020)
+## [2021 Questions](2021)
+## [2022 Questions](2022)
+## [2023 Questions](2023)
