@@ -8,6 +8,8 @@ We are delighted to have you here at our public repository dedicated to collecti
 ---
 To access a detailed view of the question papers, navigate to the specific semester folders. Each semester folder contains organized sets of questions for your convenience.
 
+> Click the blue links to go to the folder/file directly.
+
 ### Year 1(UG I)
 - [Semester 1](Sem1)
 - [Semester 2](Sem2)
