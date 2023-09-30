@@ -50,7 +50,7 @@
 ### CHS 1201
 - #### Mid Sem 
 - #### End Sem
-  > [CHS 1201](End_CHS1201.pdf)
+  > [CHS 1201](Sem2/2020/End_CHS1201.pdf)
 ---
 ### MCS 1201A
 - #### Mid Sem
