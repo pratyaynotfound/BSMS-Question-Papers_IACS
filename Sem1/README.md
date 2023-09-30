@@ -1,4 +1,4 @@
-# BSMS Sem 2 Question Papers
+# BSMS Sem 1 Question Papers
 
 ## [2018 Questions](2018)
 ## [2019 Questions](2019)
