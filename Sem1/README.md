@@ -8,3 +8,4 @@ Kindly click on the respective links to directly go to the question papers.
 - [Physics - Introductory Classical and Quantum Mechanics](PHS1101.pdf)
 - [Chemistry - Energetics and Bonding](CHS1101.pdf)
 - [Computer Science - Introduction to Computing](MCS1101B.pdf)
+- [AEC - Communicative English](AEC1101.pdf)
