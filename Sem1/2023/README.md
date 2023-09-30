@@ -1,4 +1,4 @@
-# BSMS Sem 1 Questions 
+# BSMS Sem 1 Questions (2023)
 
 Kindly click on the respective links to directly go to the question papers.
 
