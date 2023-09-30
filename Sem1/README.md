@@ -1,32 +1,31 @@
-# BSMS Sem 1 Questions 
+# 2023 Questions
 
 Kindly click on the respective links to directly go to the question papers.
 
-### Subjects
-- [Biology - Molecules of Life and Cells](BIS1101.pdf)
-- [Mathematics - Calculus of One Variable](MCS1101A.pdf)
-- [Physics - Introductory Classical and Quantum Mechanics](PHS1101.pdf)
-- [Chemistry - Energetics and Bonding](CHS1101.pdf)
-- [Computer Science - Introduction to Computing](MCS1101B.pdf)
-- [AEC - Communicative English](AEC1101.pdf)
-
-# 2023 Questions
-### PHS 1201
+### PHS 1101
 - #### Mid Sem
+    [Physics - Introductory Classical and Quantum Mechanics](2023/PHS1101.pdf)
 - #### End Sem
 ---
-### CHS 1201
+### CHS 1101
 - #### Mid Sem
+    [Chemistry - Energetics and Bonding](2023/CHS1101.pdf)
 - #### End Sem
 ---
-### MCS 1201A
+### MCS 1101A
 - #### Mid Sem
+    [Mathematics - Calculus of One Variable](2023/MCS1101A.pdf)
 - #### End Sem
 ---
 ### MCS 1201B
 - #### Mid Sem
+    [Computer Science - Introduction to Computing](2023/MCS1101B.pdf)
 - #### End Sem
 ---
-### BIS 1201
+### BIS 1101
 - #### Mid Sem
+    [Biology - Molecules of Life and Cells](2023/BIS1101.pdf)
 - #### End Sem
+
+### AEC 1101
+    [AEC - Communicative English](2023/AEC1101.pdf)
