@@ -30,6 +30,7 @@ To access a detailed view of the question papers, navigate to the specific semes
 - [Semester 9](sem9)
 - [Semester 10](sem10)
 
+---
 ## Uploading Question Papers with Git
 
 **Fork the Repository:**
