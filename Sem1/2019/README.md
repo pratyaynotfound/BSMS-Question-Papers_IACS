@@ -1,11 +1,11 @@
-# 2023 Questions
+# 2019 Questions
 
 Kindly click on the respective links to directly go to the question papers.
 
 **PHS 1101:**
 - **Mid Sem:**
     
-    [Physics - Introductory Classical and Quantum Mechanics](midsems/PHS1101.pdf)
+    N/A
 - **End Sem:**
 
     [Physics - Introductory Classical and Quantum Mechanics](endsems/PHS1101.pdf)
@@ -13,7 +13,7 @@ Kindly click on the respective links to directly go to the question papers.
 **CHS 1101:**
 - **Mid Sem:**
     
-    [Chemistry - Energetics and Bonding](midsems/CHS1101.pdf)
+    N/A
 - **End Sem:**
 
     [Chemistry - Energetics and Bonding](endsems/CHS1101.pdf)
@@ -21,7 +21,7 @@ Kindly click on the respective links to directly go to the question papers.
 **MCS 1101A:**
 - **Mid Sem:**
 
-    [Mathematics - Calculus of One Variable](midsems/MCS1101A.pdf)
+    N/A
 - **End Sem:**
 
     [Mathematics - Calculus of One Variable](endsems/MCS1101A.pdf)
@@ -29,10 +29,10 @@ Kindly click on the respective links to directly go to the question papers.
 **MCS 1101B:**
 - **Mid Sem:**
 
-    [Computer Science - Introduction to Computing](midsems/MCS1101B.pdf)
+    N/A
 - **End Sem:**
 
-    [Computer Science - Introduction to Computing](endsems/MCS1101B.pdf)
+    [Computer Science - Introduction to Computing with Python](endsems/MCS1101B.pdf)
 ---
 **BIS 1101:**
 - **Mid Sem:**
@@ -45,7 +45,7 @@ Kindly click on the respective links to directly go to the question papers.
 **AEC 1101:**
 - **Mid Sem:**
 
-    [AEC - Communicative English](midsems/AEC1101.pdf)
+    N/A
 - **End Sem:**
 
     [AEC - Communicative English](endsems/AEC1101.pdf)
