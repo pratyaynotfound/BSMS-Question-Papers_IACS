@@ -1,6 +1,5 @@
-# BSMS Sem 1 Question Papers
+# BSMS Sem 2 Question Papers
 
-**[Autumn - 2018 Questions](2018)**
 
 **[2019 Questions](2019)**
 
@@ -11,3 +10,6 @@
 **[2022 Questions](2022)**
 
 **[2023 Questions](2023)**
+
+**[2024 Questions](2024)**
+
