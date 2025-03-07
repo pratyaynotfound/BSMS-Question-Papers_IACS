@@ -1,10 +1,10 @@
 # BSMS Sem 2 Question Papers
 
-**[Spring - 2018 Questions](2018)**
+**[2018 Questions](2018)**
 
-**[Spring - 2019 Questions](2019)**
+**[2019 Questions](2019)**
 
-**[Spring - 2020 Questions](2020)**
+**[2020 Questions](2020)**
 
 **[2021 Questions](2021)**
 
